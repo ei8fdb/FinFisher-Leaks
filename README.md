@@ -1,6 +1,6 @@
 The "weblog-ips-by-assignment-country.log" contains the top 30 (in most cases) IP addresses which accessed the support.finfisher.com website. 
 
-These IP addresses came from the webalizer log files which were present in the weblogs directory, "finfisher/www/conf". I am not drawing any conclusion from these IP addresses as I cannot 100% prove this were intentional accesses.
+These IP addresses came from the webalizer log files which were present in the weblogs directory, "finfisher/www/conf". I am not drawing any conclusion from these IP addresses as I cannot 100% prove these were intentional accesses.
 
 From an initial viewing, some of these IPs may have accessed the website by mistake, looking for similar domain names. 
 
